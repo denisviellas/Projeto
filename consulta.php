@@ -1,4 +1,6 @@
 <?php
+// alterado para comitar
+
 require_once 'inicio.php';
  
 // pega o ID da URL
